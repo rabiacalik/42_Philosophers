@@ -1,9 +1,6 @@
 # 42_Philosophers
 part 2 project
-
-![Uploading autodraw 8_8_2023.png…]()
-
-
+![autodraw 8_8_2023](https://github.com/rabiacalik/42_Philosophers/assets/115617420/4c2371ce-27fb-4a9c-8560-9a25f34548ae)
 - girilen argüman sayısının 5 veya 6 olması gerek bunlar filozof sayısı , ölüm süresi(ne kadar aç kalabilir), yemek yeme ve uyuma süreleri en son arguman ise
 isteğe bağlı olarak girilen her filozofun yemesi gereken öğün sayısıdır.
 
